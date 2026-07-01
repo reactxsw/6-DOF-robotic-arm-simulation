@@ -10,3 +10,5 @@ Forward kinematics calculation
 Joint angle control with limits
 End-effector position display
 Custom robot dimensions using DH parameters
+
+<img width="2462" height="1544" alt="image" src="https://github.com/user-attachments/assets/77f867ed-b369-46ea-9554-7b2892f2de80" />
