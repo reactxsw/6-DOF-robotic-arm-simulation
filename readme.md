@@ -11,4 +11,9 @@ Joint angle control with limits
 End-effector position display
 Custom robot dimensions using DH parameters
 
-<img width="2462" height="1544" alt="image" src="https://github.com/user-attachments/assets/77f867ed-b369-46ea-9554-7b2892f2de80" />
+3DOF 
+<img width="2444" height="1540" alt="image" src="https://github.com/user-attachments/assets/493b6be6-9c70-41a9-a39c-96a213c4f42e" />
+
+6DOF 
+<img width="2440" height="1600" alt="image" src="https://github.com/user-attachments/assets/92572602-f7bd-4397-8847-d942837bf744" />
+
