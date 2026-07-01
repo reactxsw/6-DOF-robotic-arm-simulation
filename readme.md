@@ -1,4 +1,4 @@
-6-DOF Robotic Arm Simulator
+<h1>6-DOF Robotic Arm Simulator</h1>
 
 A desktop application for simulating and controlling a 6-DOF serial robotic manipulator using Python, Robotics Toolbox for Python, PyQt6, and Matplotlib.
 
