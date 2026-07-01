@@ -10,15 +10,3 @@ Forward kinematics calculation
 Joint angle control with limits
 End-effector position display
 Custom robot dimensions using DH parameters
-Educational and research-oriented design
-
-Technologies
-Python 3
-Robotics Toolbox for Python
-SpatialMath
-NumPy
-PyQt6
-Matplotlib
-Robot Specification
-
-The manipulator consists of six revolute joints
