@@ -9,7 +9,7 @@ Real-time 3D robot visualization
 Forward kinematics calculation
 Joint angle control with limits
 End-effector position display
-Custom robot dimensions using DH parameters
+Custom robot dimensions using Denavit-Hartenberg (DH)
 
 <h2>3DOF</h2>
 <img width="2444" height="1540" alt="image" src="https://github.com/user-attachments/assets/493b6be6-9c70-41a9-a39c-96a213c4f42e" />
